@@ -10,8 +10,7 @@ Date   : 20/09/2015#
 http://www.raspberrypi-spy.co.uk/
 
  Cubieboard version : Blazej Biernat
- https://cubietruck.pl
- https://cubieboard.org.pl
+ https://systemembedded.eu
 
 The wiring for the LCD is as follows:
 
